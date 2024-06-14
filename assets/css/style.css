@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -77,7 +77,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -88,17 +88,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-type {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefite-type .type {
+.benefit .benefit-type {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-type img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
